@@ -63,7 +63,7 @@ def main():
 #     get_day_onestock(stockname, filename)
     cnffile = r'cnf/corp_codes.csv'
     respath = r'res'
-    get_day_stocks(cnffile, respath, 20)
+    get_day_stocks(cnffile, respath, 3)
     
     
 #----------------------It is a split line--------------------------------------

@@ -65,6 +65,9 @@ class st_one:
         
         self.datalst.sort(key=lambda x: x.date)
         
+    def get_ratio(self):
+        
+        
 
     def draw_dayline(self):
         import matplotlib.pyplot as plt
